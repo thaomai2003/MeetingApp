@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/AppData/Local/Microsoft/Windows/INetCache/IE/I39BZRI8/bridj-0.7.0[2].jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/AppData/Local/Microsoft/Windows/INetCache/IE/OILRXK1O/miglayout-swt-4.1-sources[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/AppData/Local/Microsoft/Windows/INetCache/IE/I39BZRI8/mysql-connector-java-8.0.11[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/AppData/Local/Microsoft/Windows/INetCache/IE/0ELUWQMB/slf4j-api-1.7.2[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/AppData/Local/Microsoft/Windows/INetCache/IE/OILRXK1O/timingframework-1.0[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/AppData/Local/Microsoft/Windows/INetCache/IE/I39BZRI8/webcam-capture-0.3.11[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/swing-toast-notifications-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/swing-glasspane-popup-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/flatlaf-fonts-roboto-2.137.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/miglayout-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/jsvg-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/flatlaf-extras-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/flatlaf-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hoang/Downloads/miglayout-swing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
